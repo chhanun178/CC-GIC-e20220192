@@ -1,0 +1,9 @@
+*.pem
+*.ppk
+credentials
+.env
+.aws/
+.terraform/
+.tfstate
+.tfstate.*
+.zip*
